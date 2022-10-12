@@ -2,7 +2,7 @@
 title: "Teaching experience"
 collection: teaching
 type: "Private lessons"
-permalink: /teaching/2021-february-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "Faenza"
 date: 0
 location: "Italy"
