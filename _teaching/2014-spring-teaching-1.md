@@ -4,7 +4,7 @@ collection: teaching
 type: "Private lessons"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Faenza"
-date: 0
+date: 2015-01-02
 location: "Italy"
 ---
 
