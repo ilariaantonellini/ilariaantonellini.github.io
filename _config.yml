@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter ""
+  username               : &twitter "https://twitter.com/ilaantonellini"
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ilaria Antonellini"
-  avatar           : "profile.png"
+  avatar           : "profilo.png"
   bio              : "Physics student at university of Bologna."
   location         : "Faenza-Bologna"
   employer         :
@@ -103,7 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
