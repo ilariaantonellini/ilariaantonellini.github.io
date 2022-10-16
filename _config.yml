@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Ilaria Antonellini's website"
 title_separator          : "-"
 name                     : &name "Ilaria Antonellini"
-description              : &description "personal description"
+description              : &description "Physics student at university of Bologna. Passionate about learning, reading, nature, volleyball and climbing."
 url                      : https://ilariaantonellini.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ilariaantonellini/ilariaantonellini.github.io"
@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Ilaria Antonellini"
-  avatar           : "profilo.png"
-  bio              : "Physics student at university of Bologna"
+  avatar           : "profile.png"
+  bio              : "Physics student at university of Bologna."
   location         : "Faenza-Bologna"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
